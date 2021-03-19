@@ -1,3 +1,4 @@
 insertion
-omission
-proper-noun-fail
+substutution
+deletion
+proper-name-fail

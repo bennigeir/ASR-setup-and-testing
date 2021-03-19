@@ -7,7 +7,7 @@
     <original><w>sýndu</w></original>
     <output><w>sýndi</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>mér</w>
@@ -28,7 +28,8 @@
     <original><w>komuflug</w></original>
     <output><w>komið</w><w>fljótt</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="insertion" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -40,7 +41,8 @@
     <original><w>getirðu</w><w>vinsamlegast</w></original>
     <output><w>getur</w><w>vinnsla</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>sagt</w>
@@ -55,7 +57,9 @@
     <original><w>san</w><w>diego</w></original>
     <output><w>santiago</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="proper-name-fail" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -65,7 +69,7 @@
     <original><w>af</w></original>
     <output></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="deletion" eid="0" />
       </errors>
   </revision>
   <w>öllum</w>
@@ -78,7 +82,7 @@
     <original><w>komunar</w></original>
     <output><w>konurnar</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -86,7 +90,8 @@
     <original><w>albuquerque</w></original>
     <output><w>algleymingi</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -104,7 +109,8 @@
     <original><w>pittsburgh</w></original>
     <output><w>pétursborg</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -117,7 +123,7 @@
     <original></original>
     <output><w>í</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="insertion" eid="0" />
       </errors>
   </revision>
   <w>júlí</w>
@@ -130,7 +136,7 @@
     <original><w>getur</w></original>
     <output><w>hefur</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>flogið</w>
@@ -143,7 +149,8 @@
     <original><w>denver</w></original>
     <output><w>danmerkur</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="propr_noun-fail" eid="0" />
       </errors>
   </revision>
   <w>eða</w>
@@ -152,7 +159,8 @@
     <original><w>san</w><w>francisco</w></original>
     <output><w>sambandsins</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="insertion" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -169,7 +177,14 @@
     <original><w>frá</w><w>dallas</w><w>til</w><w>baltimore</w><w>tuttugasta</w><w>fyrsta</w></original>
     <output><w>þá</w><w>blasti</w><w>bolton</w><w>varð</w><w>tuttugasti</w><w>og</w><w>fyrsti</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="insertion" eid="0" />
+        <error xtype="propr-noun-fail" eid="0" />
+        <error xtype="propr-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>desember</w>
@@ -180,7 +195,9 @@
     <original><w>sýndu</w><w>mér</w><w>flugfélög</w></original>
     <output><w>sýnd</w><w>með</w><w>flugfélögum</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>fyrir</w>
@@ -188,7 +205,7 @@
     <original><w>flugferðir</w></original>
     <output><w>flugfari</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -198,7 +215,8 @@
     <original><w>love</w><w>field</w></original>
     <output><w>því</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="deletion" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -223,7 +241,9 @@
     <original><w>san</w><w>francisco</w></original>
     <output><w>sambandsins</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>klukkan tvö</w>
@@ -231,7 +251,7 @@
     <original><w>tíu</w></original>
     <output></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="deletion" eid="0" />
       </errors>
   </revision>
   <w>síðdegis</w>
@@ -244,7 +264,7 @@
     <original><w>eru</w></original>
     <output><w>er</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>með</w>
@@ -258,7 +278,9 @@
     <original><w>til</w><w>denver</w></original>
     <output><w>í</w><w>danmörku</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -288,7 +310,9 @@
     <original><w>san</w><w>diego</w></original>
     <output><w>santiago</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>með</w>
@@ -298,7 +322,8 @@
     <original><w>denver</w></original>
     <output><w>danmörku</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -315,7 +340,9 @@
     <original><w>frá</w><w>dallas</w></original>
     <output><w>svo</w><w>talast</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -323,7 +350,9 @@
     <original><w>baltimore</w></original>
     <output><w>boltum</w><w>á</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="insertion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>sjötta</w>
@@ -337,7 +366,7 @@
     <original><w>hvaða</w></original>
     <output><w>hvað</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>flugfélög</w>
@@ -349,7 +378,8 @@
     <original><w>pittsburgh</w></original>
     <output><w>pétursborg</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -357,7 +387,9 @@
     <original><w>san</w><w>francisco</w></original>
     <output><w>sambandsins</w><w>og</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -374,7 +406,8 @@
     <original><w>og</w><w>flugnúmer</w></original>
     <output><w>flugu</w><w>númer</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>frá</w>
@@ -382,7 +415,8 @@
     <original><w>columbus</w></original>
     <output><w>kólumbus</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -401,7 +435,8 @@
     <original><w>pittsburgh</w></original>
     <output><w>pétursborg</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -409,9 +444,10 @@
 <s n="17">
   <revision id="31">
     <original><w>hverskonar</w></original>
-    <output><w>hvers</w><w>konar</w></output>
+    <output><w>hvers</w><w>konar</w></output>  <!-- Here the output is "more correct" than the original -->
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="deletion" eid="0" />
       </errors>
   </revision>
   <w>flugfélag</w>
@@ -419,7 +455,7 @@
     <original><w>er</w></original>
     <output><w>um</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>flug</w>
@@ -427,7 +463,7 @@
     <original><w>UA</w></original>
     <output><w>eða</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>tvö</w>
@@ -435,7 +471,7 @@
     <original><w>átta</w></original>
     <output><w>átti</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>eitt</w>
@@ -446,7 +482,8 @@
     <original><w>denver</w></original>
     <output><w>danmerkur</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -460,7 +497,7 @@
     <original><w>HP</w></original>
     <output><w>hátíðum</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -470,7 +507,9 @@
     <original><w>vinsamlegast</w><w>sýndu</w><w>mér</w></original>
     <output><w>vinnsla</w><w>síðunnar</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="deletion" eid="0" />
       </errors>
   </revision>
   <w>flugfélög</w>
@@ -484,7 +523,9 @@
     <original><w>newark</w></original>
     <output><w>ég</w><w>var</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="insertion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -500,7 +541,7 @@
     <original><w>eru</w></original>
     <output><w>er</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>með</w>
@@ -510,15 +551,18 @@
     <original><w>new</w><w>orleans</w></original>
     <output><w>norðri</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>til</w>
   <revision id="41">
-    <original><w>philadelphia</w></original>
+    <original><w>philadelphia</w></original>  <!-- Reverse this error prompt? -->
     <output><w>fíladelfíu</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />        
       </errors>
   </revision>
   <w>sem</w>
@@ -535,7 +579,7 @@
     <original><w>sýndu</w></original>
     <output><w>sýndi</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>mér</w>
@@ -545,7 +589,8 @@
     <original><w>dallas</w></original>
     <output><w>dalvík</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -553,7 +598,9 @@
     <original><w>san</w><w>francisco</w></original>
     <output><w>sambandsins</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -563,7 +610,7 @@
     <original><w>sýndu</w></original>
     <output><w>sýndi</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>mér</w>
@@ -573,7 +620,9 @@
     <original><w>san</w><w>diego</w></original>
     <output><w>santiago</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -581,7 +630,8 @@
     <original><w>newark</w></original>
     <output><w>ljúfar</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -593,7 +643,8 @@
     <original><w>houston</w></original>
     <output><w>hnífsdal</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -610,7 +661,7 @@
     <original><w>bwi</w></original>
     <output><w>péturs</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -623,7 +674,8 @@
     <original><w>denver</w></original>
     <output><w>bendir</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -631,7 +683,10 @@
     <original><w>pittsburgh</w><w>með</w><w>brottför</w></original>
     <output><w>pizzu</w><w>flottur</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>eftir</w>
@@ -640,7 +695,7 @@
     <original><w>en</w></original>
     <output></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="deletion" eid="0" />
       </errors>
   </revision>
   <w>fyrir</w>
@@ -648,7 +703,9 @@
     <original><w>klukkan sjö</w><w>um</w><w>kvöldið</w></original>
     <output><w>sjö</w><w>í</w><w>kvöld</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -670,7 +727,11 @@
     <original><w>dallas</w><w>dallas</w><w>til</w></original>
     <output><w>tals</w><w>við</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>boston</w>
@@ -678,7 +739,7 @@
     <original><w>og</w></original>
     <output></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="deletion" eid="0" />
       </errors>
   </revision>
   <w>boston</w>
@@ -687,7 +748,8 @@
     <original><w>baltimore</w></original>
     <output><w>prentunar</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -705,7 +767,9 @@
     <original><w>pittsburgh</w></original>
     <output><w>pytts</w><w>borg</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="insertion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>fimmtudaginn</w>
@@ -722,7 +786,7 @@
     <original><w>í</w></original>
     <output></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="deletion" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -732,7 +796,8 @@
     <original><w>denver</w></original>
     <output><w>dalvík</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -740,7 +805,12 @@
     <original><w>pittsburgh</w><w>með</w><w>united</w><w>airlines</w></original>
     <output><w>prentsmiðju</w><w>næturgalans</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -750,7 +820,7 @@
     <original><w>vinsamlegast</w></original>
     <output><w>vinsamlega</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>sýndu</w>
@@ -763,15 +833,18 @@
     <original><w>með</w><w>united</w></original>
     <output><w>níu</w><w>nætur</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>frá</w>
   <revision id="63">
-    <original><w>cansas</w></original>
+    <original><w>cansas</w></original> <!-- Not really an error-->
     <output><w>kansas</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -779,7 +852,8 @@
     <original><w>baltimore</w></original>
     <output><w>bolton</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -798,7 +872,8 @@
     <original><w>sacramento</w></original>
     <output><w>sakramentis</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -808,7 +883,7 @@
     <original><w>sýndu</w></original>
     <output><w>sýndi</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>mér</w>
@@ -816,7 +891,7 @@
     <original><w>allar</w></original>
     <output><w>alla</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>flugferðir</w>
@@ -827,7 +902,8 @@
     <original><w>pittsburgh</w></original>
     <output><w>pétursborgar</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -850,7 +926,7 @@
     <original><w>þarf</w></original>
     <output><w>var</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>líka</w>
@@ -860,7 +936,8 @@
     <original><w>dallas</w></original>
     <output><w>dalvík</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -877,7 +954,7 @@
     <original><w>sýndu</w></original>
     <output><w>sýndi</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>mér</w>
@@ -888,7 +965,9 @@
     <original><w>new</w><w>york</w></original>
     <output><w>mjólk</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -896,7 +975,8 @@
     <original><w>milwaukee</w></original>
     <output></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>með</w>
@@ -904,7 +984,10 @@
     <original><w>northwest</w><w>airlines</w></original>
     <output><w>loki</w><w>með</w><w>norðvesturlands</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>brottför</w>
@@ -913,7 +996,7 @@
     <original><w>tuttugu</w></original>
     <output><w>duttu</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>um</w>
@@ -928,10 +1011,11 @@
   <w>delta</w>
   <w>frá</w>
   <revision id="76">
-    <original><w>philadelphia</w></original>
+    <original><w>philadelphia</w></original> <!-- Not an error-->
     <output><w>fíladelfíu</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -939,7 +1023,9 @@
     <original><w>san</w><w>francisco</w></original>
     <output><w>sambandsins</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -949,7 +1035,8 @@
     <original><w>fá</w><w>flugnúmerið</w></original>
     <output><w>þá</w><w>flóru</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -962,7 +1049,10 @@
     <original><w>frá</w><w>st</w><w>louis</w></original>
     <output><w>svo</w><w>seint</w><w>lúist</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -970,7 +1060,9 @@
     <original><w>burbank</w></original>
     <output><w>baka</w><w>á</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="insertion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>sunnudagskvöldið</w>
@@ -988,7 +1080,8 @@
     <original><w>pittsburgh</w></original>
     <output><w>pétursborg</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -1001,7 +1094,7 @@
     <original><w>mér</w></original>
     <output></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="deletion" eid="0" />
       </errors>
   </revision>
   <w>flugferðir</w>
@@ -1012,7 +1105,9 @@
     <original><w>san</w><w>francisco</w></original>
     <output><w>sambandsins</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>milli</w>
@@ -1040,15 +1135,20 @@
     <original><w>indianapolis</w></original>
     <output><w>hátíðanna</w><w>eins</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="insertion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>og</w>
   <revision id="85">
-    <original><w>orlando</w><w>florida</w></original>
+    <original><w>orlando</w><w>florida</w></original> <!-- "flórída" is not an error-->
     <output><w>london</w><w>flórída</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>fyrir</w>
@@ -1059,7 +1159,7 @@
     <original><w>og</w></original>
     <output></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="deletion" eid="0" />
       </errors>
   </revision>
   <w>tuttugasta</w>
@@ -1067,7 +1167,8 @@
     <original><w>og</w><w>áttunda</w></original>
     <output></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="deletion" eid="0" />
       </errors>
   </revision>
   <w>desember</w>
@@ -1078,7 +1179,7 @@
     <original><w>sýndu</w></original>
     <output><w>sýndi</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>mér</w>
@@ -1091,17 +1192,22 @@
     <original><w>dallas</w><w>fort</w><w>worth</w></original>
     <output><w>dæmis</w><w>hvort</w><w>varð</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>bæði</w>
   <w>bein</w>
   <w>og</w>
   <revision id="90">
-    <original><w>tengi</w><w>flug</w></original>
+    <original><w>tengi</w><w>flug</w></original> <!-- Not an error -->
     <output><w>tengiflug</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="deletion" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -1116,7 +1222,7 @@
     <original><w>þarf</w></original>
     <output><w>var</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>flug</w>
@@ -1125,7 +1231,12 @@
     <original><w>charlotte</w><w>til</w><w>newark</w></original>
     <output><w>sér</w><w>loftinu</w><w>og</w><w>þar</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="insertion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -1143,7 +1254,7 @@
     <original><w>fara</w></original>
     <output></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="deletion" eid="0" />
       </errors>
   </revision>
   <w>frá</w>
@@ -1153,7 +1264,8 @@
     <original><w>pittsburgh</w></original>
     <output><w>pizzu</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>eftir</w>
@@ -1161,7 +1273,7 @@
     <original><w>klukkan sex</w></original>
     <output><w>sex</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="deletion" eid="0" />
       </errors>
   </revision>
   <w>næsta</w>
@@ -1173,7 +1285,8 @@
     <original></original>
     <output><w>ef</w><w>júdas</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="insertion" eid="0" />
+        <error xtype="insertion" eid="0" />
       </errors>
   </revision>
   <w>er</w>
@@ -1181,7 +1294,9 @@
     <original><w>us</w><w>air</w></original>
     <output></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>með</w>
@@ -1189,7 +1304,7 @@
     <original><w>einhverjar</w></original>
     <output><w>einhverja</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>flugferðir</w>
@@ -1209,7 +1324,7 @@
     <original><w>stystu</w></original>
     <output><w>fyrstu</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>ferð</w>
@@ -1221,7 +1336,9 @@
     <original><w>san</w><w>francisco</w></original>
     <output><w>samvisku</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -1232,7 +1349,7 @@
     <original><w>þarf</w></original>
     <output><w>var</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -1240,7 +1357,7 @@
     <original><w>vita</w></original>
     <output><w>veita</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>upplýsingar</w>
@@ -1252,7 +1369,9 @@
     <original><w>frá</w><w>dallas</w></original>
     <output><w>fram</w><w>dans</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -1261,7 +1380,7 @@
     <original><w>og</w></original>
     <output></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="deletion" eid="0" />
       </errors>
   </revision>
   <w>flýgur</w>
@@ -1278,7 +1397,7 @@
     <original><w>ertu</w></original>
     <output><w>eru</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
       </errors>
   </revision>
   <w>með</w>
@@ -1286,7 +1405,9 @@
     <original><w>frá</w><w>burbank</w></original>
     <output><w>börn</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -1294,7 +1415,11 @@
     <original><w>tacoma</w><w>washington</w></original>
     <output><w>taks</w><w>koma</w><w>boltanum</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="insertion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -1308,7 +1433,10 @@
     <original><w>san</w><w>francisco</w><w>til</w></original>
     <output><w>samkvæmiskjóll</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>atlanta</w>
@@ -1327,7 +1455,7 @@
     <original><w>í</w></original>
     <output></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="deletion" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -1338,7 +1466,8 @@
     <original><w>denver</w></original>
     <output><w>danmerkur</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>frá</w>
@@ -1346,7 +1475,8 @@
     <original><w>philadelphia</w></original>
     <output><w>fíladelfíu</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>næstkomandi</w>
@@ -1364,7 +1494,9 @@
     <original><w>san</w><w>francisco</w></original>
     <output><w>sambandsins</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -1372,7 +1504,10 @@
     <original><w>washington</w><w>dc</w></original>
     <output><w>boston</w><w>í</w><w>sig</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="insertion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -1386,7 +1521,10 @@
     <original><w>fljúga</w><w>frá</w><w>denver</w></original>
     <output><w>flotanum</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -1394,7 +1532,9 @@
     <original><w>san</w><w>francisco</w></original>
     <output><w>sambandsins</w><w>og</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -1415,7 +1555,9 @@
     <original><w>frá</w><w>indianapolis</w></original>
     <output><w>frændi</w><w>lappalaus</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -1423,7 +1565,8 @@
     <original><w>seattle</w></original>
     <output></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>um</w>
@@ -1436,7 +1579,7 @@
     <original><w>þarf</w></original>
     <output><w>var</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="deletion" eid="0" />
       </errors>
   </revision>
   <w>flug</w>
@@ -1445,7 +1588,9 @@
     <original><w>san</w><w>jose</w></original>
     <output><w>selfossi</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="deletion" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -1453,7 +1598,8 @@
     <original><w>houston</w></original>
     <output><w>sjúkdóma</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="proper-noun-fail" eid="0" />
       </errors>
   </revision>
   <w>sem</w>

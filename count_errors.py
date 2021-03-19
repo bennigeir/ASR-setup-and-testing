@@ -1,5 +1,7 @@
 import glob
 import xml.etree.ElementTree as ET
+from collections import Counter
+from xml.dom import minidom 
 
 
 # XML namespace
@@ -36,7 +38,15 @@ def count_errors(file_list):
                 error_count += len(errors)
                 
     return wc, f_count, rev_count, error_count
-                
+
+def sort_errors(files):
+    freq=Counter()
+    for filename in files:
+        mydoc = minidom.parse(filename)
+        items = mydoc.getElementsByTagName('error')
+        for item in items:
+            freq[item.attributes['xtype'].value]+=1
+    return freq
 
 file_list = glob.glob('tei/*.xml')
 
@@ -47,4 +57,5 @@ print('Number of errors:', error_counts[3])
 print('Number of files:', error_counts[1])
 print("Number of words:", error_counts[0])
 print("Number of errors per 1000 words:", (error_counts[3]/error_counts[0])*1000)
+print("Number of errors per type:", sort_errors(file_list))
 

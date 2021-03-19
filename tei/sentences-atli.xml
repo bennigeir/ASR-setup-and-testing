@@ -1,0 +1,1468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <revision id="1">
+    <original><w>sýndu</w></original>
+    <output><w>sýndi</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>mér</w>
+  <w>flugfélög</w>
+  <w>með</w>
+  <w>ferðir</w>
+  <w>með</w>
+  <w>fyrsta</w>
+  <w>farrými</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>hvaða</w>
+  <w>flugfélag</w>
+  <w>hefur</w>
+  <w>flest</w>
+  <revision id="2">
+    <original><w>komuflug</w></original>
+    <output><w>komið</w><w>fljótt</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <w>atlanta</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <revision id="3">
+    <original><w>getirðu</w><w>vinsamlegast</w></original>
+    <output><w>getur</w><w>vinnsla</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>sagt</w>
+  <w>mér</w>
+  <w>hvaða</w>
+  <w>flugfélag</w>
+  <w>flýgur</w>
+  <w>frá</w>
+  <w>toronto</w>
+  <w>til</w>
+  <revision id="4">
+    <original><w>san</w><w>diego</w></original>
+    <output><w>santiago</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="4">
+  <revision id="5">
+    <original><w>af</w></original>
+    <output></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>öllum</w>
+  <w>flugfélögum</w>
+  <w>hvaða</w>
+  <w>flugfélag</w>
+  <w>hefur</w>
+  <w>flestar</w>
+  <revision id="6">
+    <original><w>komunar</w></original>
+    <output><w>konurnar</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <revision id="7">
+    <original><w>albuquerque</w></original>
+    <output><w>algleymingi</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>hvaða</w>
+  <w>flugfélag</w>
+  <w>hefur</w>
+  <w>minnstu</w>
+  <w>flugvélina</w>
+  <w>sem</w>
+  <w>fer</w>
+  <w>frá</w>
+  <revision id="8">
+    <original><w>pittsburgh</w></original>
+    <output><w>pétursborg</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>koma</w>
+  <w>til</w>
+  <w>baltimore</w>
+  <w>þann</w>
+  <w>þriðja</w>
+  <revision id="9">
+    <original></original>
+    <output><w>í</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>júlí</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>hvaða</w>
+  <w>flugfélag</w>
+  <revision id="10">
+    <original><w>getur</w></original>
+    <output><w>hefur</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>flogið</w>
+  <w>með</w>
+  <w>mig</w>
+  <w>frá</w>
+  <w>atlanta</w>
+  <w>til</w>
+  <revision id="11">
+    <original><w>denver</w></original>
+    <output><w>danmerkur</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>eða</w>
+  <w>til</w>
+  <revision id="12">
+    <original><w>san</w><w>francisco</w></original>
+    <output><w>sambandsins</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>hvaða</w>
+  <w>flugfélag</w>
+  <w>er</w>
+  <w>ódýrast</w>
+  <w>að</w>
+  <w>fljúga</w>
+  <w>með</w>
+  <revision id="13">
+    <original><w>frá</w><w>dallas</w><w>til</w><w>baltimore</w><w>tuttugasta</w><w>fyrsta</w></original>
+    <output><w>þá</w><w>blasti</w><w>bolton</w><w>varð</w><w>tuttugasti</w><w>og</w><w>fyrsti</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>desember</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <revision id="14">
+    <original><w>sýndu</w><w>mér</w><w>flugfélög</w></original>
+    <output><w>sýnd</w><w>með</w><w>flugfélögum</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>fyrir</w>
+  <revision id="15">
+    <original><w>flugferðir</w></original>
+    <output><w>flugfari</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <w>eða</w>
+  <w>frá</w>
+  <revision id="16">
+    <original><w>love</w><w>field</w></original>
+    <output><w>því</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>hvaða</w>
+  <w>flugfélag</w>
+  <w>er</w>
+  <w>flugið</w>
+  <w>sem</w>
+  <w>fer</w>
+  <w>frá</w>
+  <w>atlanta</w>
+  <w>sjöunda</w>
+  <w>nóvember</w>
+  <w>á</w>
+  <w>hádegi</w>
+  <w>og</w>
+  <w>kemur</w>
+  <w>til</w>
+  <revision id="17">
+    <original><w>san</w><w>francisco</w></original>
+    <output><w>sambandsins</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>klukkan tvö</w>
+  <revision id="18">
+    <original><w>tíu</w></original>
+    <output></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>síðdegis</w>
+  <c>.</c>
+</s>
+<s n="10">
+  <w>hvaða</w>
+  <w>flugfélög</w>
+  <revision id="19">
+    <original><w>eru</w></original>
+    <output><w>er</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>með</w>
+  <w>beint</w>
+  <w>flug</w>
+  <w>snemma</w>
+  <w>síðdegis</w>
+  <w>frá</w>
+  <w>boston</w>
+  <revision id="20">
+    <original><w>til</w><w>denver</w></original>
+    <output><w>í</w><w>danmörku</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="11">
+  <w>sýndu</w>
+  <w>mér</w>
+  <w>lista</w>
+  <w>yfir</w>
+  <w>öll</w>
+  <w>flugfélög</w>
+  <w>sem</w>
+  <w>bjóða</w>
+  <w>fyrsta</w>
+  <w>flokks</w>
+  <w>þjónustu</w>
+  <c>.</c>
+</s>
+<s n="12">
+  <w>hvaða</w>
+  <w>flugfélög</w>
+  <w>fljúga</w>
+  <w>frá</w>
+  <w>toronto</w>
+  <w>til</w>
+  <revision id="21">
+    <original><w>san</w><w>diego</w></original>
+    <output><w>santiago</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>með</w>
+  <w>tengingu</w>
+  <w>í</w>
+  <revision id="22">
+    <original><w>denver</w></original>
+    <output><w>danmörku</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="13">
+  <w>hvaða</w>
+  <w>flugfélag</w>
+  <w>býður</w>
+  <w>ódýrustu</w>
+  <w>flugferðina</w>
+  <w>sem</w>
+  <w>fer</w>
+  <revision id="23">
+    <original><w>frá</w><w>dallas</w></original>
+    <output><w>svo</w><w>talast</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <revision id="24">
+    <original><w>baltimore</w></original>
+    <output><w>boltum</w><w>á</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>sjötta</w>
+  <w>apríl</w>
+  <c>.</c>
+</s>
+<s n="14">
+  <w>segðu</w>
+  <w>mér</w>
+  <revision id="25">
+    <original><w>hvaða</w></original>
+    <output><w>hvað</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>flugfélög</w>
+  <w>eru</w>
+  <w>með</w>
+  <w>flug</w>
+  <w>frá</w>
+  <revision id="26">
+    <original><w>pittsburgh</w></original>
+    <output><w>pétursborg</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <revision id="27">
+    <original><w>san</w><w>francisco</w></original>
+    <output><w>sambandsins</w><w>og</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>mánudaginn</w>
+  <w>annan</w>
+  <w>september</w>
+  <c>.</c>
+</s>
+<s n="15">
+  <w>gefðu</w>
+  <w>mér</w>
+  <w>flugfélag</w>
+  <revision id="28">
+    <original><w>og</w><w>flugnúmer</w></original>
+    <output><w>flugu</w><w>númer</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>frá</w>
+  <revision id="29">
+    <original><w>columbus</w></original>
+    <output><w>kólumbus</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <w>minneapolis</w>
+  <c>.</c>
+</s>
+<s n="16">
+  <w>láttu</w>
+  <w>mig</w>
+  <w>fá</w>
+  <w>lista</w>
+  <w>yfir</w>
+  <w>flugfélög</w>
+  <w>í</w>
+  <revision id="30">
+    <original><w>pittsburgh</w></original>
+    <output><w>pétursborg</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="17">
+  <revision id="31">
+    <original><w>hverskonar</w></original>
+    <output><w>hvers</w><w>konar</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>flugfélag</w>
+  <revision id="32">
+    <original><w>er</w></original>
+    <output><w>um</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>flug</w>
+  <revision id="33">
+    <original><w>UA</w></original>
+    <output><w>eða</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>tvö</w>
+  <revision id="34">
+    <original><w>átta</w></original>
+    <output><w>átti</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>eitt</w>
+  <w>frá</w>
+  <w>boston</w>
+  <w>til</w>
+  <revision id="35">
+    <original><w>denver</w></original>
+    <output><w>danmerkur</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="18">
+  <w>skilgreindu</w>
+  <w>fyrir</w>
+  <w>mig</w>
+  <w>flugfélagið</w>
+  <revision id="36">
+    <original><w>HP</w></original>
+    <output><w>hátíðum</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="19">
+  <revision id="37">
+    <original><w>vinsamlegast</w><w>sýndu</w><w>mér</w></original>
+    <output><w>vinnsla</w><w>síðunnar</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>flugfélög</w>
+  <w>sem</w>
+  <w>bjóða</w>
+  <w>flug</w>
+  <w>frá</w>
+  <w>boston</w>
+  <w>til</w>
+  <revision id="38">
+    <original><w>newark</w></original>
+    <output><w>ég</w><w>var</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>laugardögum</w>
+  <c>.</c>
+</s>
+<s n="20">
+  <w>eru</w>
+  <w>einhver</w>
+  <w>flugfélög</w>
+  <w>sem</w>
+  <revision id="39">
+    <original><w>eru</w></original>
+    <output><w>er</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>með</w>
+  <w>flug</w>
+  <w>frá</w>
+  <revision id="40">
+    <original><w>new</w><w>orleans</w></original>
+    <output><w>norðri</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <revision id="41">
+    <original><w>philadelphia</w></original>
+    <output><w>fíladelfíu</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>fara</w>
+  <w>fyrir</w>
+  <w>klukkan sex</w>
+  <w>þrjátíu</w>
+  <w>um</w>
+  <w>kvöldið</w>
+  <c>.</c>
+</s>
+<s n="21">
+  <revision id="42">
+    <original><w>sýndu</w></original>
+    <output><w>sýndi</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>mér</w>
+  <w>flugferðir</w>
+  <w>frá</w>
+  <revision id="43">
+    <original><w>dallas</w></original>
+    <output><w>dalvík</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <revision id="44">
+    <original><w>san</w><w>francisco</w></original>
+    <output><w>sambandsins</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="22">
+  <revision id="45">
+    <original><w>sýndu</w></original>
+    <output><w>sýndi</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>mér</w>
+  <w>flugferðir</w>
+  <w>frá</w>
+  <revision id="46">
+    <original><w>san</w><w>diego</w></original>
+    <output><w>santiago</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <revision id="47">
+    <original><w>newark</w></original>
+    <output><w>ljúfar</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>eiga</w>
+  <w>leið</w>
+  <w>í</w>
+  <w>gegnum</w>
+  <revision id="48">
+    <original><w>houston</w></original>
+    <output><w>hnífsdal</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="23">
+  <w>hvað</w>
+  <w>er</w>
+  <w>ódýrasta</w>
+  <w>flugið</w>
+  <w>frá</w>
+  <w>boston</w>
+  <w>til</w>
+  <revision id="49">
+    <original><w>bwi</w></original>
+    <output><w>péturs</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="24">
+  <w>allar</w>
+  <w>flugferðir</w>
+  <w>frá</w>
+  <revision id="50">
+    <original><w>denver</w></original>
+    <output><w>bendir</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <revision id="51">
+    <original><w>pittsburgh</w><w>með</w><w>brottför</w></original>
+    <output><w>pizzu</w><w>flottur</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>eftir</w>
+  <w>sex</w>
+  <revision id="52">
+    <original><w>en</w></original>
+    <output></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>fyrir</w>
+  <revision id="53">
+    <original><w>klukkan sjö</w><w>um</w><w>kvöldið</w></original>
+    <output><w>sjö</w><w>í</w><w>kvöld</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="25">
+  <w>ég</w>
+  <w>þarf</w>
+  <w>upplýsingar</w>
+  <w>um</w>
+  <w>flug</w>
+  <w>á</w>
+  <w>þriðjudaginn</w>
+  <w>sem</w>
+  <w>fara</w>
+  <w>frá</w>
+  <w>baltimore</w>
+  <w>til</w>
+  <revision id="54">
+    <original><w>dallas</w><w>dallas</w><w>til</w></original>
+    <output><w>tals</w><w>við</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>boston</w>
+  <revision id="55">
+    <original><w>og</w></original>
+    <output></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>boston</w>
+  <w>til</w>
+  <revision id="56">
+    <original><w>baltimore</w></original>
+    <output><w>prentunar</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="26">
+  <w>vinsamlegast</w>
+  <w>láttu</w>
+  <w>mig</w>
+  <w>fá</w>
+  <w>flug</w>
+  <w>frá</w>
+  <w>boston</w>
+  <w>til</w>
+  <revision id="57">
+    <original><w>pittsburgh</w></original>
+    <output><w>pytts</w><w>borg</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>fimmtudaginn</w>
+  <w>í</w>
+  <w>næstu</w>
+  <w>viku</w>
+  <c>.</c>
+</s>
+<s n="27">
+  <w>ég</w>
+  <w>væri</w>
+  <w>til</w>
+  <revision id="58">
+    <original><w>í</w></original>
+    <output></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>fljúga</w>
+  <w>frá</w>
+  <revision id="59">
+    <original><w>denver</w></original>
+    <output><w>dalvík</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <revision id="60">
+    <original><w>pittsburgh</w><w>með</w><w>united</w><w>airlines</w></original>
+    <output><w>prentsmiðju</w><w>næturgalans</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="28">
+  <revision id="61">
+    <original><w>vinsamlegast</w></original>
+    <output><w>vinsamlega</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>sýndu</w>
+  <w>mér</w>
+  <w>allar</w>
+  <w>flugferðir</w>
+  <w>fyrsta</w>
+  <w>farrými</w>
+  <revision id="62">
+    <original><w>með</w><w>united</w></original>
+    <output><w>níu</w><w>nætur</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>frá</w>
+  <revision id="63">
+    <original><w>cansas</w></original>
+    <output><w>kansas</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <revision id="64">
+    <original><w>baltimore</w></original>
+    <output><w>bolton</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="29">
+  <w>mig</w>
+  <w>langar</w>
+  <w>til</w>
+  <w>að</w>
+  <w>bóka</w>
+  <w>flug</w>
+  <w>frá</w>
+  <w>atlanta</w>
+  <w>til</w>
+  <revision id="65">
+    <original><w>sacramento</w></original>
+    <output><w>sakramentis</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="30">
+  <revision id="66">
+    <original><w>sýndu</w></original>
+    <output><w>sýndi</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>mér</w>
+  <revision id="67">
+    <original><w>allar</w></original>
+    <output><w>alla</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>flugferðir</w>
+  <w>frá</w>
+  <w>boston</w>
+  <w>til</w>
+  <revision id="68">
+    <original><w>pittsburgh</w></original>
+    <output><w>pétursborgar</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>miðvikudaginn</w>
+  <w>í</w>
+  <w>næstu</w>
+  <w>viku</w>
+  <w>sem</w>
+  <w>fara</w>
+  <w>frá</w>
+  <w>boston</w>
+  <w>eftir</w>
+  <w>klukkan tvö</w>
+  <w>síðdegis</w>
+  <c>.</c>
+</s>
+<s n="31">
+  <w>ég</w>
+  <revision id="69">
+    <original><w>þarf</w></original>
+    <output><w>var</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>líka</w>
+  <w>aðstoð</w>
+  <w>frá</w>
+  <revision id="70">
+    <original><w>dallas</w></original>
+    <output><w>dalvík</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <w>boston</w>
+  <w>koma</w>
+  <w>fyrir</w>
+  <w>hádegi</w>
+  <w>á</w>
+  <w>þriðjudaginn</w>
+  <c>.</c>
+</s>
+<s n="32">
+  <revision id="71">
+    <original><w>sýndu</w></original>
+    <output><w>sýndi</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>mér</w>
+  <w>allar</w>
+  <w>flugferðir</w>
+  <w>frá</w>
+  <revision id="72">
+    <original><w>new</w><w>york</w></original>
+    <output><w>mjólk</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <revision id="73">
+    <original><w>milwaukee</w></original>
+    <output></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>með</w>
+  <revision id="74">
+    <original><w>northwest</w><w>airlines</w></original>
+    <output><w>loki</w><w>með</w><w>norðvesturlands</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>brottför</w>
+  <w>klukkan sjö</w>
+  <revision id="75">
+    <original><w>tuttugu</w></original>
+    <output><w>duttu</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>kvöldið</w>
+  <c>.</c>
+</s>
+<s n="33">
+  <w>vinsamlegast</w>
+  <w>finndu</w>
+  <w>flug</w>
+  <w>með</w>
+  <w>delta</w>
+  <w>frá</w>
+  <revision id="76">
+    <original><w>philadelphia</w></original>
+    <output><w>fíladelfíu</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <revision id="77">
+    <original><w>san</w><w>francisco</w></original>
+    <output><w>sambandsins</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>láttu</w>
+  <w>mig</w>
+  <revision id="78">
+    <original><w>fá</w><w>flugnúmerið</w></original>
+    <output><w>þá</w><w>flóru</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="34">
+  <w>hvaða</w>
+  <w>flugferðir</w>
+  <w>eru</w>
+  <revision id="79">
+    <original><w>frá</w><w>st</w><w>louis</w></original>
+    <output><w>svo</w><w>seint</w><w>lúist</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <revision id="80">
+    <original><w>burbank</w></original>
+    <output><w>baka</w><w>á</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>sunnudagskvöldið</w>
+  <c>.</c>
+</s>
+<s n="35">
+  <w>mig</w>
+  <w>langar</w>
+  <w>til</w>
+  <w>að</w>
+  <w>skipuleggja</w>
+  <w>flugferð</w>
+  <w>frá</w>
+  <revision id="81">
+    <original><w>pittsburgh</w></original>
+    <output><w>pétursborg</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <w>atlanta</w>
+  <c>.</c>
+</s>
+<s n="36">
+  <w>sýndu</w>
+  <revision id="82">
+    <original><w>mér</w></original>
+    <output></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>flugferðir</w>
+  <w>frá</w>
+  <w>baltimore</w>
+  <w>til</w>
+  <revision id="83">
+    <original><w>san</w><w>francisco</w></original>
+    <output><w>sambandsins</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>milli</w>
+  <w>sex</w>
+  <w>og</w>
+  <w>átta</w>
+  <w>um</w>
+  <w>kvöldið</w>
+  <w>á</w>
+  <w>föstudaginn</w>
+  <c>.</c>
+</s>
+<s n="37">
+  <w>ég</w>
+  <w>vil</w>
+  <w>fá</w>
+  <w>lista</w>
+  <w>yfir</w>
+  <w>flugferðum</w>
+  <w>báðar</w>
+  <w>leiðir</w>
+  <w>á</w>
+  <w>milli</w>
+  <revision id="84">
+    <original><w>indianapolis</w></original>
+    <output><w>hátíðanna</w><w>eins</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <revision id="85">
+    <original><w>orlando</w><w>florida</w></original>
+    <output><w>london</w><w>flórída</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>fyrir</w>
+  <w>tuttugasta</w>
+  <w>og</w>
+  <w>sjöunda</w>
+  <revision id="86">
+    <original><w>og</w></original>
+    <output></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>tuttugasta</w>
+  <revision id="87">
+    <original><w>og</w><w>áttunda</w></original>
+    <output></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>desember</w>
+  <c>.</c>
+</s>
+<s n="38">
+  <revision id="88">
+    <original><w>sýndu</w></original>
+    <output><w>sýndi</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>mér</w>
+  <w>öll</w>
+  <w>flug</w>
+  <w>frá</w>
+  <w>boston</w>
+  <w>til</w>
+  <revision id="89">
+    <original><w>dallas</w><w>fort</w><w>worth</w></original>
+    <output><w>dæmis</w><w>hvort</w><w>varð</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>bæði</w>
+  <w>bein</w>
+  <w>og</w>
+  <revision id="90">
+    <original><w>tengi</w><w>flug</w></original>
+    <output><w>tengiflug</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>koma</w>
+  <w>fyrir</w>
+  <w>hádegi</w>
+  <c>.</c>
+</s>
+<s n="39">
+  <w>ég</w>
+  <revision id="91">
+    <original><w>þarf</w></original>
+    <output><w>var</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>flug</w>
+  <w>frá</w>
+  <revision id="92">
+    <original><w>charlotte</w><w>til</w><w>newark</w></original>
+    <output><w>sér</w><w>loftinu</w><w>og</w><w>þar</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>flýgur</w>
+  <w>í</w>
+  <w>dag</w>
+  <w>í</w>
+  <w>kvöld</w>
+  <c>.</c>
+</s>
+<s n="40">
+  <w>hvaða</w>
+  <w>flugferðir</w>
+  <revision id="93">
+    <original><w>fara</w></original>
+    <output></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>frá</w>
+  <w>boston</w>
+  <w>til</w>
+  <revision id="94">
+    <original><w>pittsburgh</w></original>
+    <output><w>pizzu</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>eftir</w>
+  <revision id="95">
+    <original><w>klukkan sex</w></original>
+    <output><w>sex</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>næsta</w>
+  <w>þriðjudag</w>
+  <c>.</c>
+</s>
+<s n="41">
+  <revision id="96">
+    <original></original>
+    <output><w>ef</w><w>júdas</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <revision id="97">
+    <original><w>us</w><w>air</w></original>
+    <output></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>með</w>
+  <revision id="98">
+    <original><w>einhverjar</w></original>
+    <output><w>einhverja</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>flugferðir</w>
+  <w>frá</w>
+  <w>atlanta</w>
+  <w>til</w>
+  <w>minneapolis</w>
+  <c>.</c>
+</s>
+<s n="42">
+  <w>mig</w>
+  <w>langar</w>
+  <w>til</w>
+  <w>að</w>
+  <w>vita</w>
+  <revision id="99">
+    <original><w>stystu</w></original>
+    <output><w>fyrstu</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>ferð</w>
+  <w>á</w>
+  <w>milli</w>
+  <w>boston</w>
+  <w>og</w>
+  <revision id="100">
+    <original><w>san</w><w>francisco</w></original>
+    <output><w>samvisku</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="43">
+  <w>ég</w>
+  <revision id="101">
+    <original><w>þarf</w></original>
+    <output><w>var</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <revision id="102">
+    <original><w>vita</w></original>
+    <output><w>veita</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>upplýsingar</w>
+  <w>um</w>
+  <w>flug</w>
+  <w>sem</w>
+  <w>fer</w>
+  <revision id="103">
+    <original><w>frá</w><w>dallas</w></original>
+    <output><w>fram</w><w>dans</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>fimmtudagskvöld</w>
+  <revision id="104">
+    <original><w>og</w></original>
+    <output></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>flýgur</w>
+  <w>til</w>
+  <w>baka</w>
+  <w>til</w>
+  <w>atlanta</w>
+  <c>.</c>
+</s>
+<s n="44">
+  <w>hvaða</w>
+  <w>flugferðir</w>
+  <revision id="105">
+    <original><w>ertu</w></original>
+    <output><w>eru</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>með</w>
+  <revision id="106">
+    <original><w>frá</w><w>burbank</w></original>
+    <output><w>börn</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <revision id="107">
+    <original><w>tacoma</w><w>washington</w></original>
+    <output><w>taks</w><w>koma</w><w>boltanum</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="45">
+  <w>finndu</w>
+  <w>nýjasta</w>
+  <w>flug</w>
+  <w>frá</w>
+  <revision id="108">
+    <original><w>san</w><w>francisco</w><w>til</w></original>
+    <output><w>samkvæmiskjóll</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>atlanta</w>
+  <w>sem</w>
+  <w>býður</w>
+  <w>upp</w>
+  <w>á</w>
+  <w>máltíðir</w>
+  <c>.</c>
+</s>
+<s n="46">
+  <w>ég</w>
+  <w>væri</w>
+  <w>til</w>
+  <revision id="109">
+    <original><w>í</w></original>
+    <output></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>panta</w>
+  <w>flug</w>
+  <w>til</w>
+  <revision id="110">
+    <original><w>denver</w></original>
+    <output><w>danmerkur</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>frá</w>
+  <revision id="111">
+    <original><w>philadelphia</w></original>
+    <output><w>fíladelfíu</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>næstkomandi</w>
+  <w>sunnudag</w>
+  <c>.</c>
+</s>
+<s n="47">
+  <w>vinsamlegast</w>
+  <w>láttu</w>
+  <w>mig</w>
+  <w>fá</w>
+  <w>flug</w>
+  <w>frá</w>
+  <revision id="112">
+    <original><w>san</w><w>francisco</w></original>
+    <output><w>sambandsins</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <revision id="113">
+    <original><w>washington</w><w>dc</w></original>
+    <output><w>boston</w><w>í</w><w>sig</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>laugardaginn</w>
+  <c>.</c>
+</s>
+<s n="48">
+  <w>hvaða</w>
+  <w>flugferðir</w>
+  <revision id="114">
+    <original><w>fljúga</w><w>frá</w><w>denver</w></original>
+    <output><w>flotanum</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <revision id="115">
+    <original><w>san</w><w>francisco</w></original>
+    <output><w>sambandsins</w><w>og</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>mánudag</w>
+  <w>þriðjudag</w>
+  <w>miðvikudag</w>
+  <w>fimmtudag</w>
+  <w>og</w>
+  <w>föstudag</w>
+  <c>.</c>
+</s>
+<s n="49">
+  <w>teldu</w>
+  <w>upp</w>
+  <w>öll</w>
+  <w>flug</w>
+  <revision id="116">
+    <original><w>frá</w><w>indianapolis</w></original>
+    <output><w>frændi</w><w>lappalaus</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <revision id="117">
+    <original><w>seattle</w></original>
+    <output></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>morguninn</w>
+  <c>.</c>
+</s>
+<s n="50">
+  <w>ég</w>
+  <revision id="118">
+    <original><w>þarf</w></original>
+    <output><w>var</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>flug</w>
+  <w>frá</w>
+  <revision id="119">
+    <original><w>san</w><w>jose</w></original>
+    <output><w>selfossi</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <revision id="120">
+    <original><w>houston</w></original>
+    <output><w>sjúkdóma</w></output>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>fer</w>
+  <w>á</w>
+  <w>sunnudaginn</w>
+  <w>þann</w>
+  <w>fjórða</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

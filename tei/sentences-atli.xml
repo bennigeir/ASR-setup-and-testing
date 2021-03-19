@@ -840,7 +840,7 @@
   </revision>
   <w>frá</w>
   <revision id="63">
-    <original><w>cansas</w></original> <!-- Not really an error-->
+    <original><w>cansas</w></original> <!-- Not an error-->
     <output><w>kansas</w></output>
       <errors>
         <error xtype="substitution" eid="0" />

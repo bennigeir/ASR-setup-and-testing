@@ -1,4 +1,4 @@
 insertion
-substutution
+substitution
 deletion
 proper-name-fail

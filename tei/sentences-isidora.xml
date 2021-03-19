@@ -22,7 +22,8 @@
     <original><w>komuflug</w></original>
     <output><w>komin</w><w>á</w><w>flug</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="substitution" eid="0" />
+        <error xtype="insertion" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -30,7 +31,7 @@
     <original><w>atlanta</w></original>
     <output><w>útlanda</w></output>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="proper-name-fail" eid="0" />
       </errors>
   </revision>
   <c>.</c>

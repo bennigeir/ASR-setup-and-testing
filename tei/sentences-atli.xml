@@ -442,7 +442,6 @@
   <c>.</c>
 </s>
 <s n="17">
-  <w>hverskonar</w>
   <w>flugfélag</w>
   <revision id="32">
     <original><w>er</w></original>
@@ -550,7 +549,6 @@
       </errors>
   </revision>
   <w>til</w>
-  <w>fíladelfíu</w>
   <w>sem</w>
   <w>fara</w>
   <w>fyrir</w>
@@ -825,7 +823,6 @@
       </errors>
   </revision>
   <w>frá</w>
-  <w>kansas</w>
   <w>til</w>
   <revision id="64">
     <original><w>baltimore</w></original>
@@ -989,7 +986,6 @@
   <w>með</w>
   <w>delta</w>
   <w>frá</w>
-  <w>fíladelfíu</w>
   <w>til</w>
   <revision id="77">
     <original><w>san</w><w>francisco</w></original>
@@ -1113,7 +1109,6 @@
       </errors>
   </revision>
   <w>og</w>
-  <w>flórída</w>
   <w>fyrir</w>
   <w>tuttugasta</w>
   <w>og</w>
@@ -1165,8 +1160,6 @@
   <w>bæði</w>
   <w>bein</w>
   <w>og</w>
-  <revision id="90">
-  <w>tengiflug</w>
   <w>sem</w>
   <w>koma</w>
   <w>fyrir</w>

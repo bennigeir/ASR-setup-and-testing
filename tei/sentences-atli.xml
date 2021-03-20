@@ -442,14 +442,7 @@
   <c>.</c>
 </s>
 <s n="17">
-  <revision id="31">
-    <original><w>hverskonar</w></original>
-    <output><w>hvers</w><w>konar</w></output>  <!-- Here the output is "more correct" than the original -->
-      <errors>
-        <error xtype="substitution" eid="0" />
-        <error xtype="deletion" eid="0" />
-      </errors>
-  </revision>
+  <w>hverskonar</w>
   <w>flugfélag</w>
   <revision id="32">
     <original><w>er</w></original>
@@ -557,14 +550,7 @@
       </errors>
   </revision>
   <w>til</w>
-  <revision id="41">
-    <original><w>philadelphia</w></original>  <!-- Reverse this error prompt? -->
-    <output><w>fíladelfíu</w></output>
-      <errors>
-        <error xtype="substitution" eid="0" />
-        <error xtype="proper-name-fail" eid="0" />        
-      </errors>
-  </revision>
+  <w>fíladelfíu</w>
   <w>sem</w>
   <w>fara</w>
   <w>fyrir</w>
@@ -839,14 +825,7 @@
       </errors>
   </revision>
   <w>frá</w>
-  <revision id="63">
-    <original><w>cansas</w></original> <!-- Not an error-->
-    <output><w>kansas</w></output>
-      <errors>
-        <error xtype="substitution" eid="0" />
-        <error xtype="proper-name-fail" eid="0" />
-      </errors>
-  </revision>
+  <w>kansas</w>
   <w>til</w>
   <revision id="64">
     <original><w>baltimore</w></original>
@@ -1010,14 +989,7 @@
   <w>með</w>
   <w>delta</w>
   <w>frá</w>
-  <revision id="76">
-    <original><w>philadelphia</w></original> <!-- Not an error-->
-    <output><w>fíladelfíu</w></output>
-      <errors>
-        <error xtype="substitution" eid="0" />
-        <error xtype="proper-name-fail" eid="0" />
-      </errors>
-  </revision>
+  <w>fíladelfíu</w>
   <w>til</w>
   <revision id="77">
     <original><w>san</w><w>francisco</w></original>
@@ -1141,16 +1113,7 @@
       </errors>
   </revision>
   <w>og</w>
-  <revision id="85">
-    <original><w>orlando</w><w>florida</w></original> <!-- "flórída" is not an error-->
-    <output><w>london</w><w>flórída</w></output>
-      <errors>
-        <error xtype="substitution" eid="0" />
-        <error xtype="substitution" eid="0" />
-        <error xtype="proper-name-fail" eid="0" />
-        <error xtype="proper-name-fail" eid="0" />
-      </errors>
-  </revision>
+  <w>flórída</w>
   <w>fyrir</w>
   <w>tuttugasta</w>
   <w>og</w>
@@ -1203,13 +1166,7 @@
   <w>bein</w>
   <w>og</w>
   <revision id="90">
-    <original><w>tengi</w><w>flug</w></original> <!-- Not an error -->
-    <output><w>tengiflug</w></output>
-      <errors>
-        <error xtype="substitution" eid="0" />
-        <error xtype="deletion" eid="0" />
-      </errors>
-  </revision>
+  <w>tengiflug</w>
   <w>sem</w>
   <w>koma</w>
   <w>fyrir</w>

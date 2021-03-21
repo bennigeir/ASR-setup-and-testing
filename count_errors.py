@@ -72,6 +72,6 @@ print("Number of errors per type:", sorted_errors[0])
 print("\nSingle speaker errors:\n")
 for speaker in sorted_errors[1]:
     print(f"Number of errors from {speaker[0]}", speaker[1])
-    print("\tWord error rate:",calculate_word_error(speaker[1], error_counts[0]))
+    print("\tWord error rate: {:.2%}".format(calculate_word_error(speaker[1], round(error_counts[0]))))
 
 

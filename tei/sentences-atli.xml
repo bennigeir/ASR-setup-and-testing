@@ -150,7 +150,7 @@
     <output><w>danmerkur</w></output>
       <errors>
         <error xtype="substitution" eid="0" />
-        <error xtype="propr_noun-fail" eid="0" />
+        <error xtype="proper-name-fail" eid="0" />
       </errors>
   </revision>
   <w>eða</w>
@@ -183,8 +183,8 @@
         <error xtype="substitution" eid="0" />
         <error xtype="substitution" eid="0" />
         <error xtype="insertion" eid="0" />
-        <error xtype="propr-noun-fail" eid="0" />
-        <error xtype="propr-noun-fail" eid="0" />
+        <error xtype="proper-name-fail" eid="0" />
+        <error xtype="proper-name-fail" eid="0" />
       </errors>
   </revision>
   <w>desember</w>

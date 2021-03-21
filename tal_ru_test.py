@@ -4,10 +4,13 @@ import glob
 
 from base64 import b64encode
 
-file_list = glob.glob('data/isi/*.wav')   
+file_list = glob.glob('data/ben/*.wav')   
+token = 'Bearer ak_Pa2KJXLmk8djBKmJLXM6D4ZGeoVQPE3q0Kw9p5RqvzOa7yl2gbWYA1rN04eyQBOG'
+
 out_file = open('txt/sentences.output.txt','w',encoding='utf-8')
-for file in file_list:
-    token = 'Bearer ak_Pa2KJXLmk8djBKmJLXM6D4ZGeoVQPE3q0Kw9p5RqvzOa7yl2gbWYA1rN04eyQBOG'
+for file in sorted(file_list):
+    print(file)
+    
     obj = open(file,'rb').read()
     obj64 = str(b64encode(obj).decode("utf-8"))
 
@@ -28,4 +31,3 @@ for file in file_list:
     out_file.write(response.text[44:-6])
     out_file.write('.\n')
 out_file.close()
-

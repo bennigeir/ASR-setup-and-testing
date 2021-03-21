@@ -24,8 +24,8 @@ from tokenizer.definitions import PUNCTUATION_REGEX
 # XML namespace
 ns = {'tei': 'http://www.tei-c.org/ns/1.0' }
 
-basedir='D:/ASR/txt'
-outputdir='D:/ASR/tei'
+basedir='C:/Users/Benedikt/Documents/GitHub/ASR-setup-and-testing/txt'
+outputdir='C:/Users/Benedikt/Documents/GitHub/ASR-setup-and-testing/tei'
 
 original_file = 'sentences.original.txt'
 output_file = 'sentences.output.txt'
@@ -124,6 +124,7 @@ def error_tei(original_text, output_text):
 
     a = align2(original_tokens,
               output_tokens)
+    
 
     #print(3)
 

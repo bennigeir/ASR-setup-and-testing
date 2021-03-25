@@ -1,6 +1,7 @@
 import requests
 import wave
 import glob
+import json
 
 from base64 import b64encode
 
@@ -12,7 +13,7 @@ endpoint = 'https://tal.ru.is/v1/speech:syncrecognize'
 # Folder containing the WAV files
 file_list = glob.glob('data/ben/*.wav')   
 # Name of the file where response will be written to
-output_txt = 'txt/sentences_test.output.txt'
+output_txt = 'txt/sentences_ben.output.txt'
 
 
 def main(verbose=False):
@@ -49,7 +50,8 @@ def main(verbose=False):
                                  data=data)
     
         # Write selected parts of the response to a file
-        out_file.write(response.text[44:-6])
+        data = json.loads(response.text)
+        out_file.write(data['results'][0]['alternatives'][0]['transcript'])
         out_file.write('.\n')
         
     out_file.close()
